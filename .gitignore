@@ -1,0 +1,7 @@
+desktop.ini
+*.exe
+*.o
+*.out
+*.cbp
+*.depend
+*.layout
